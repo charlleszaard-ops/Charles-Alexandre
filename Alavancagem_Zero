@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Método Alavancagem Zero</title>
+<style>
+    /* Reset básico */
+    * { margin:0; padding:0; box-sizing:border-box; font-family: Arial, sans-serif; }
+
+    body { background-color: #0E0E0E; color: #FFFFFF; line-height:1.6; }
+    a { text-decoration:none; }
+    section { padding: 60px 20px; max-width: 900px; margin: auto; }
+
+    h1, h2, h3 { color: #FFFFFF; margin-bottom: 20px; }
+    h1 { font-size: 2.5rem; text-shadow: 1px 1px 5px #16A34A; }
+    h2 { font-size: 2rem; margin-top: 40px; }
+    h3 { font-size: 1.5rem; }
+
+    p { margin-bottom: 20px; }
+    ul, ol { margin-bottom: 20px; padding-left: 20px; }
+
+    .btn { display:inline-block; padding: 15px 25px; margin: 10px 0; background-color: #16A34A; color: #FFFFFF; font-weight:bold; border-radius: 8px; transition: 0.3s; }
+    .btn:hover { background-color: #00B050; }
+
+    .highlight { color: #00B050; font-weight: bold; }
+
+    .urgency { color: #90EE90; font-weight: bold; margin-top:10px; }
+
+    /* Responsividade */
+    @media(max-width:600px){
+        h1 { font-size:2rem; }
+        h2 { font-size:1.5rem; }
+        h3 { font-size:1.2rem; }
+        .btn { padding:12px 20px; font-size:0.9rem; }
+    }
+</style>
+</head>
+<body>
+
+<!-- SEÇÃO 1 -->
+<section id="hero">
+    <h1>🚀 Transforme seu negócio em 30 dias com o Método Alavancagem Zero</h1>
+    <p>4 campanhas publicitárias. 4 vídeos profissionais. Um método validado para gerar reconhecimento, engajamento, vendas e recorrência.</p>
+    <a href="https://wa.me/5566992816404?text=Olá!%20Quero%20saber%20mais%20sobre%20o%20Método%20Alavancagem%20Zero." class="btn">👉 Quero alavancar meu negócio agora</a>
+    <p class="urgency">⚡ Apenas 5 vagas promocionais por <span class="highlight">R$1.000</span> (de R$1.500)</p>
+</section>
+
+<!-- SEÇÃO 2 -->
+<section id="o-que-e">
+    <h2>🎥 O que é o Método Alavancagem Zero</h2>
+    <p>O <strong>Alavancagem Zero</strong> é um plano completo de marketing criado para <strong>pequenos e médios negócios</strong> que querem crescer com estratégia, visibilidade e resultados reais — sem depender da sorte.</p>
+    <p>Durante <strong>30 dias</strong>, seu negócio passa por <strong>4 etapas de campanhas profissionais</strong>, cada uma com um <strong>vídeo publicitário exclusivo</strong>, gravado e editado com equipamentos de alta qualidade.</p>
+    <p>Cada campanha tem um propósito:</p>
+    <ul>
+        <li>1️⃣ Gerar reconhecimento.</li>
+        <li>2️⃣ Criar engajamento.</li>
+        <li>3️⃣ Converter em vendas.</li>
+        <li>4️⃣ Reimpactar o público certo.</li>
+    </ul>
+</section>
+
+<!-- SEÇÃO 3 -->
+<section id="incluso">
+    <h2>🧩 O que está incluso no plano</h2>
+    <ul>
+        <li>🎬 4 campanhas estratégicas (Reconhecimento, Engajamento, Vendas e Remarketing)</li>
+        <li>🎥 4 vídeos publicitários originais, com roteiros inovadores e gravação profissional</li>
+        <li>📋 Análise completa do perfil no Instagram, com relatório de posicionamento</li>
+        <li>🧠 Roteiros validados por especialistas</li>
+        <li>⏱️ Gravação de todo o conteúdo em 1 dia</li>
+        <li>📊 Transparência total: relatório com gastos e resultados de cada campanha</li>
+        <li>🖌️ 4 criativos exclusivos, cada um voltado para a sua respectiva campanha (Reconhecimento, Engajamento, Vendas e Remarketing)</li>
+    </ul>
+</section>
+
+<!-- SEÇÃO 4 -->
+<section id="investimento">
+    <h2>💰 Investimento</h2>
+    <p>💵 <strong>Valor oficial:</strong> R$1.500,00</p>
+    <p>🔥 <strong>Oferta especial de lançamento:</strong> R$1.000,00 para os 5 primeiros empresários</p>
+    <p>📌 O investimento em anúncios é separado e pago diretamente pelo cliente, garantindo total controle sobre a verba de mídia.</p>
+    <a href="https://wa.me/5566992816404?text=Olá!%20Quero%20garantir%20minha%20vaga%20no%20Método%20Alavancagem%20Zero." class="btn">💬 Quero garantir minha vaga por R$1.000</a>
+</section>
+
+<!-- SEÇÃO 5 -->
+<section id="como-funciona">
+    <h2>🗓️ Como funciona</h2>
+    <ol>
+        <li>Análise e briefing do negócio.</li>
+        <li>Criação e envio dos roteiros.</li>
+        <li>Gravação de todos os vídeos (em 1 dia).</li>
+        <li>Edição e início da primeira campanha.</li>
+        <li>A partir do 1º anúncio publicado, começa a contagem dos 30 dias de acompanhamento.</li>
+    </ol>
+</section>
+
+<!-- SEÇÃO 6 -->
+<section id="porque-funciona">
+    <h2>📈 Por que o método funciona</h2>
+    <p>O Alavancagem Zero foi construído com base no comportamento real do consumidor:</p>
+    <ul>
+        <li>✅ Ele vê.</li>
+        <li>✅ Ele interage.</li>
+        <li>✅ Ele compra.</li>
+        <li>✅ E ele volta.</li>
+    </ul>
+    <p>Cada etapa é pensada para gerar <strong>crescimento constante e mensurável</strong>.<br>Não é sorte — é método.</p>
+</section>
+
+<!-- SEÇÃO 7 -->
+<section id="chamada-final">
+    <h2>💬 Está pronto pra alavancar o seu negócio?</h2>
+    <p>Não deixe sua marca parada — o Alavancagem Zero coloca ela em movimento.</p>
+    <a href="https://wa.me/5566992816404?text=Olá!%20Quero%20falar%20sobre%20o%20Método%20Alavancagem%20Zero." class="btn">👉 Falar com especialista agora</a>
+</section>
+
+</body>
+</html>
